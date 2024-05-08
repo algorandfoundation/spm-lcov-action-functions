@@ -1,6 +1,10 @@
-# SPM lcov action
+# Fork
 
-Swift Package Manager Code Coverage Report.
+# SPM lcov action functions
+
+Swift Package Manager Code Coverage Report /w Detailed Functions
+
+This is a fork of Maxime Epain's spm-lcov-action Github Action. Unlike his, this one passes in the -show-functions command, hardcoded to the Sources directory (standard for Swift Package Manager-templated Swift project), giving more detailed information on which functions are not fully covered or covered at all.
 
 ## Summary Report
 
