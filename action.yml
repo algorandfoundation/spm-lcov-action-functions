@@ -1,6 +1,6 @@
-name: 'Swift Coverage Report'
-description: 'Report SPM test coverage summary and lcov file'
-author: 'Maxime Epain'
+name: 'Swift Coverage Report w/ Detailed Functions'
+description: 'Report SPM test coverage per function and lcov file'
+author: 'Algorand Foundation'
 branding:
     icon: 'check-circle'  
     color: 'orange'
